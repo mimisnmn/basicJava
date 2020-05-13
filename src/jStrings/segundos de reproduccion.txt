@@ -10,3 +10,8 @@ el video dura 345 segundos.
 3.  partir la informacion en dos:  el primero es minutos, el otro es segundos
 4.  multiplicar los minutos por sesenta y sumarle los segundos.
 5. imprimir el resultado
+
+
+
+
+

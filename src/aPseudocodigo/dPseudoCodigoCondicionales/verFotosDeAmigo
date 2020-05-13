@@ -1,0 +1,16 @@
+verFotosFacebookAmigo() {
+
+    loginFacebook()
+    buscarAmigo()
+    entrarAlbums()
+    ver20Fotos()
+
+    loginFacebook()
+    {
+
+
+    }
+    buscarAmigo()
+    entrarAlbums()
+    ver20Fotos()
+}
